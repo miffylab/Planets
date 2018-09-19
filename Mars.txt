@@ -6,4 +6,4 @@ Emotion: Mummy will appreciate the lack of humidity!
 
 An ill-considered change!
 
-This line is added by the host (Miffy).
+The host removed everything from <<<<<HEAD
