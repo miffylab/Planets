@@ -5,3 +5,5 @@ Climate: Cold and dry
 Emotion: Mummy will appreciate the lack of humidity! 
 
 An ill-considered change!
+
+This line is added by the host (Miffy).
